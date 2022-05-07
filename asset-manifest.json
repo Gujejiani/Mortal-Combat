@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mortal-Combat/static/css/main.a15f80e9.css",
+    "main.js": "/Mortal-Combat/static/js/main.0ec2c8cc.js",
+    "static/js/787.b6dff4bc.chunk.js": "/Mortal-Combat/static/js/787.b6dff4bc.chunk.js",
+    "static/media/arena.jpg": "/Mortal-Combat/static/media/arena.128daeba27613af09d40.jpg",
+    "static/media/loading.gif": "/Mortal-Combat/static/media/loading.75aa7e255d5505749657.gif",
+    "static/media/logo.png": "/Mortal-Combat/static/media/logo.a09620f1ad5f3de5d494.png",
+    "index.html": "/Mortal-Combat/index.html",
+    "main.a15f80e9.css.map": "/Mortal-Combat/static/css/main.a15f80e9.css.map",
+    "main.0ec2c8cc.js.map": "/Mortal-Combat/static/js/main.0ec2c8cc.js.map",
+    "787.b6dff4bc.chunk.js.map": "/Mortal-Combat/static/js/787.b6dff4bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15f80e9.css",
+    "static/js/main.0ec2c8cc.js"
+  ]
+}
